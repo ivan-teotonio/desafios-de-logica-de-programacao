@@ -61,4 +61,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Desenvolvido com ❤️ por Ivan
 
-Para mais informações ou contato, visite [meu perfil no GitHub](https://github.com/seu-usuario).
+Para mais informações ou contato, visite [meu perfil no GitHub](https://github.com/ivan-teotonio).
