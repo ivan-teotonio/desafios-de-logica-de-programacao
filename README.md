@@ -1,5 +1,5 @@
 ﻿# Desafios de lógica de programação com javascript
-# Desafios de Lógica de Programação com JavaScript
+
 
 Este repositório contém uma coleção de desafios de lógica de programação implementados em JavaScript. Os projetos aqui presentes são destinados a desenvolvedores que desejam aprimorar suas habilidades de resolução de problemas e lógica de programação.
 
