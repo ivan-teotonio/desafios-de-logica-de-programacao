@@ -1,1 +1,2 @@
-﻿Desafios de lógica de programação com JavaScript e PHP
+﻿Desafios de lógica de programação com typescript
+ 
