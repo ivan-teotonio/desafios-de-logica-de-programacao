@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ﻿🟢 Dia 1 — Exercícios de Lógica (Junior)
 
 Resolva sem pensar em código primeiro. Pense no passo a passo da solução.
@@ -156,3 +157,7 @@ letra maiúscula
 (algoritmo de Dijkstra)
 
 🔟 Resolver problema das N Rainhas
+=======
+﻿Desafios de lógica de programação com typescript
+ 
+>>>>>>> 460dcea0ae3b27723939c83a8a078ecb5960fdf2
