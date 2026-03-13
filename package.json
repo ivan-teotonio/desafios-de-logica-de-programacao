@@ -1,0 +1,17 @@
+{
+  "name": "desafios-de-logica-de-programacao",
+  "version": "1.0.0",
+  "description": "Desafios de lógica de programação com JavaScript e PHP",
+  "main": "numeros_pares.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^25.5.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}
